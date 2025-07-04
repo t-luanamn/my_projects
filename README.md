@@ -21,7 +21,6 @@ This repository contains solutions to several foundational programming projects 
 
 Each project is contained in its own folder, with source code, headers, and Makefiles as required. The main folders are:
 
-```text
 [M_00_libft/](./M_00_libft/)        # Custom C standard library functions
 [M_01_ft_printf/](./M_01_ft_printf/)    # Reimplementation of printf
 [M_01_get_next_line/](./M_01_get_next_line/) # Read a line from a file descriptor
@@ -34,7 +33,7 @@ Each project is contained in its own folder, with source code, headers, and Make
 [M_04_MiniRT/](./M_04_MiniRT/)       # Mini ray-tracing renderer
 [M_05_ft_irc/](./M_05_ft_irc/)       # IRC chat server in C++
 [M_05_inception/](./M_05_inception/)    # Docker network with nginx, MariaDB, WordPress
-```
+
 
 ## Getting Started
 
