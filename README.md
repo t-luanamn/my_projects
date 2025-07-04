@@ -48,4 +48,4 @@ make
 
 ## Author
 
-This repository is maintained by `t-luanamn`. For questions, please contact <tanapoom.git@gmail.com> or [linkedin.com/in/tanapoomtl](https://www.linkedin.com/in/tanapoomtl).
+This repository is maintained by [t-luanamn](https://github.com/t-luanamn). For questions, please contact [tanapoom.git@gmail.com](mailto:tanapoom.git@gmail.com) or [linkedin.com/in/tanapoomtl](https://www.linkedin.com/in/tanapoomtl).
