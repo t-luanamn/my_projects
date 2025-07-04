@@ -19,31 +19,22 @@ This repository contains solutions to several foundational programming projects 
 
 ## Directory Structure
 
-Each project is contained in its own folder, with source code, headers, and Makefiles as required. The main folders are:
+Each project is contained in its own folder, with source code, headers, and Makefiles as required.
 
-[M_00_libft](./M_00_libft/)        # Custom C standard library functions
-
-[M_01_ft_printf](./M_01_ft_printf/)    # Reimplementation of printf
-
-[M_01_get_next_line](./M_01_get_next_line/) # Read a line from a file descriptor
-
-[M_02_fractol](./M_02_fractol/)      # Fractal graphics program
-
-[M_02_pipex](./M_02_pipex/)        # Shell pipe behaviour recreation
-
-[M_02_push_swap](./M_02_push_swap/)    # Integer sorting algorithm
-
-[M_03_minishell](./M_03_minishell/)    # Miniature shell program
-
-[M_03_philosophers](./M_03_philosophers/) # Dining philosophers concurrency problem
-
-[M_04_cpp](./M_04_cpp/)          # C++ exercises
-
-[M_04_MiniRT](./M_04_MiniRT/)       # Mini ray-tracing renderer
-
-[M_05_ft_irc](./M_05_ft_irc/)       # IRC chat server in C++
-
-[M_05_inception](./M_05_inception/)    # Docker network with nginx, MariaDB, WordPress
+| Project Directory | Description |
+|------------------|-------------|
+| [M_00_libft](./M_00_libft/) | Custom C standard library functions |
+| [M_01_ft_printf](./M_01_ft_printf/) | Reimplementation of printf |
+| [M_01_get_next_line](./M_01_get_next_line/) | Read a line from a file descriptor |
+| [M_02_fractol](./M_02_fractol/) | Fractal graphics program |
+| [M_02_pipex](./M_02_pipex/) | Shell pipe behaviour recreation |
+| [M_02_push_swap](./M_02_push_swap/) | Integer sorting algorithm |
+| [M_03_minishell](./M_03_minishell/) | Miniature shell program |
+| [M_03_philosophers](./M_03_philosophers/) | Dining philosophers concurrency problem |
+| [M_04_cpp](./M_04_cpp/) | C++ exercises |
+| [M_04_MiniRT](./M_04_MiniRT/) | Mini ray-tracing renderer |
+| [M_05_ft_irc](./M_05_ft_irc/) | IRC chat server in C++ |
+| [M_05_inception](./M_05_inception/) | Docker network with nginx, MariaDB, WordPress |
 
 
 ## Getting Started
